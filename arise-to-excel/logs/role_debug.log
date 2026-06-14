@@ -1,0 +1,4 @@
+[2026-06-06T15:08:24+03:00] assign_user_role_by_name called: user=9 role=Teacher
+[2026-06-06T15:08:24+03:00] assign_user_role_by_name result: user=9 role_id=8 rows=1
+[2026-06-06T15:14:23+03:00] assign_user_role_by_name called: user=10 role=Teacher
+[2026-06-06T15:14:23+03:00] assign_user_role_by_name result: user=10 role_id=8 rows=1
